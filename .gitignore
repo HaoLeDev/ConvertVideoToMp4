@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.cr/personal/FavoritesList
+/.vs/AuraCompressFile/config
+/.vs/AuraCompressFile/DesignTimeBuild
+/.vs/AuraCompressFile/FileContentIndex
+*.v2
+*.suo
+/.vs
